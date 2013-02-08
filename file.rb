@@ -1,1 +1,1 @@
-admin_file
+admin
