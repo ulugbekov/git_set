@@ -1,0 +1,8 @@
+
+
+templfile.txt
+*.zip
+*.gz
+log/
+assets/videos/
+!assets/videos/tour_*.mp4  #we need track those files
